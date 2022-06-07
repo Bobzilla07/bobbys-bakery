@@ -45,27 +45,7 @@ body {
     font-size: 1em;
 }
 
-@media (max-width: 300px) {
     html {
-        font-size: 70%;
+        font-size: 100%;
     }
-}
-
-@media (min-width: 400px) {
-    html {
-        font-size: 80%;
-    }
-}
-
-@media (min-width: 700px) {
-    html {
-        font-size: 120%;
-    }
-}
-
-@media (min-width: 1200px) {
-    html {
-        font-size: 200%;
-    }
-}
 
