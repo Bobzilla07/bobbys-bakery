@@ -37,7 +37,7 @@ h33 {
 }
 
 
-body {
+.resizebigmain {
       font-size:5vw;
 }
 
@@ -63,9 +63,9 @@ body {
 
 .small {
     color: #3e3e3e;
-    font-size: 14px;
+    font-size: 3vw;
 }
 .email {
     color: #00ff;
-    font-size: 14px;
+    font-size: 3vw;
 }
