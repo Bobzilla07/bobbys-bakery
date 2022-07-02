@@ -65,11 +65,8 @@ h33 {
     color: #00ff;
     font-size: 3vw;
 }
-.rwb {
-    color: #fc0303
         
-        
- .glowgreen{
+ .rwb{
         background-color: #1c87c9;
         -webkit-border-radius: 60px;
         border-radius: 60px;
@@ -105,7 +102,7 @@ h33 {
           box-shadow: 0 0 5px #0328fc;
         }
 }
-      .glowgreen {
+      .rwb {
         animation: glowing 1300ms infinite;
       }
       /*glowgreenend*/
